@@ -1,2 +1,1 @@
-# NNPTUD_S2
-# Vào nhánh mỗi ngày để lấy code
+# Huỳnh Gia Khiêm Lớp: 21DTHD5 MSSV:2180604879
